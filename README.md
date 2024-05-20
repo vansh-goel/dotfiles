@@ -1,4 +1,6 @@
-# Installation Command
+# Hyprland Dotfiles
+
+## Installation Command
 `bash <(curl -s "https://end-4.github.io/dots-hyprland-wiki/setup.sh")`
 
 ### Post installation steps
@@ -10,3 +12,4 @@
 - ![image](https://github.com/vansh-goel/dotfiles/assets/62180044/12ac5c39-21f4-4c81-a5c4-56424d574fc5)
 - ![image](https://github.com/vansh-goel/dotfiles/assets/62180044/c6cb8558-1ea8-455b-8f36-9d989f346213)
 
+___
