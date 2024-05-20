@@ -2,7 +2,7 @@
 `bash <(curl -s "https://end-4.github.io/dots-hyprland-wiki/setup.sh")`
 
 ### Post installation steps
-- Replace the `hypr` file in your `~/.comfig/` folder with the `hypr` file above
+- Replace the `hypr` file in your `~/.config/` folder with the `hypr` file above
 - Enjoy your new rice all thanks to [this chad,](https://github.com/end-4/dots-hyprland) and my keybindings.
 
 ## Screenshots
